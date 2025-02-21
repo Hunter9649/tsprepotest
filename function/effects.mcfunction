@@ -1,0 +1,1 @@
+effect clear @a minecraft:instant_health

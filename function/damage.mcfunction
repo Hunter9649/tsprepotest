@@ -1,0 +1,1 @@
+execute as @s[scores={damage=1..}] run function ghostlife:health_update
